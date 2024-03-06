@@ -1,0 +1,22 @@
+footer {
+  margin: 100px 0;
+  border-top: 1px solid rgb(241, 241, 241);
+  padding-top: 30px;
+}
+.row {
+  justify-content: center;
+}
+footer .col-3 {
+  width: 200px;
+}
+footer .col-3 p {
+  font-size: 18px;
+  line-height: 30px;
+  letter-spacing: -0.5px;
+  font-weight: 500;
+}
+footer .col-3 small {
+  font-size: 14px;
+  line-height: 35px;
+  color: #02073e;
+}

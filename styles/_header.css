@@ -1,0 +1,63 @@
+header {
+  background-color: #1e3c72;
+}
+.head-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: white;
+}
+.navlink {
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+  gap: 30px;
+}
+.navlink-item {
+  text-decoration: none;
+}
+.getButton .btn {
+  color: white;
+  border-radius: 20px;
+  border: 1px solid white;
+}
+.mobile {
+  display: flex;
+}
+.mobile-text {
+  margin-left: 130px;
+  color: white;
+  margin-top: 50px;
+}
+.mobile-text h1 {
+  letter-spacing: 2px;
+  font-size: 60px;
+  width: 636px;
+}
+.mobile-text p {
+  margin-top: 20px;
+  width: 500px;
+  font-size: 18px;
+}
+.watch {
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+}
+.watch .btn {
+  background-color: white;
+  border-radius: 20px;
+  color: black;
+  margin-right: 20px;
+}
+.sponsor img {
+  width: 70px;
+}
+.sponsor {
+  padding: 10px 0 100px 0;
+}
+.mobile-img img {
+  width: 640px;
+  height: 500px;
+  margin-top: 40px;
+}

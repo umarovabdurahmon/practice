@@ -1,0 +1,46 @@
+.section3 {
+  background-color: #1e3c72;
+  margin: 70px 0;
+  padding: 50px 0 100px 0;
+  color: white;
+}
+
+.title3 {
+  text-align: center;
+  margin-bottom: 80px;
+}
+.title3 small {
+  font-size: 14px;
+  line-height: 40px;
+  letter-spacing: 2.0999999046325684px;
+}
+.title3 h3 {
+  font-size: 36px;
+  line-height: 55px;
+  letter-spacing: -1.5px;
+}
+.row {
+  gap: 30px;
+  justify-content: center;
+}
+.col-3 {
+  width: 270px;
+}
+.col-3 span {
+  padding: 10px;
+  color: #1e3c72;
+  border-radius: 16px;
+  background-color: white;
+}
+.col-3 h4 {
+  margin-top: 25px;
+  font-size: 20px;
+  line-height: 34px;
+  font-weight: 600;
+}
+.col-3 small {
+  font-size: 12px;
+  line-height: 26px;
+}
+
+/* ------------------------------------ */

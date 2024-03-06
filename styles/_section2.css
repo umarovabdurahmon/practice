@@ -1,0 +1,51 @@
+.title2 {
+  margin: 70px 0;
+  text-align: center;
+}
+.title2 small {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 2.0999999046325684px;
+}
+.title2 h2 {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 55px;
+  letter-spacing: -1.5px;
+}
+.jackpot {
+  display: flex;
+  margin: 50px 0;
+  justify-content: center;
+}
+.jackpot-text {
+  margin-top: 50px;
+}
+.jackpot-text small {
+  font-size: 14px;
+  line-height: 40px;
+  letter-spacing: 2.0999999046325684px;
+  color: #244886;
+}
+.jackpot-text h3 {
+  font-size: 48px;
+  width: 510px;
+  line-height: 55px;
+  letter-spacing: -1.5px;
+  color: #0f2137;
+}
+.jackpot-text p {
+  width: 450px;
+  font-size: 18px;
+  line-height: 42px;
+}
+.jackpot-text .btn {
+  color: white;
+  background-color: #1f3e76;
+  border-radius: 20px;
+  border: 1px solid white;
+}
+.jackpot-img img {
+  width: 650px;
+}

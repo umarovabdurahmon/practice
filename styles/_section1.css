@@ -1,0 +1,123 @@
+.title {
+  margin-top: 20px;
+  text-align: center;
+}
+.title small {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 2.0999999046325684px;
+}
+.title h2 {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 55px;
+  letter-spacing: -1.5px;
+}
+.cart {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: space-evenly;
+  margin-top: 70px;
+}
+.cart-item1 img {
+  width: 60px;
+  height: 65px;
+  padding: 20px 12px;
+  border-radius: 15px;
+
+  background-color: #e4ffee;
+}
+.cart-item2 img {
+  width: 60px;
+  height: 65px;
+  border-radius: 15px;
+  padding: 20px 12px;
+  background-color: #d1deff;
+}
+.cart-item3 img {
+  width: 60px;
+  height: 65px;
+  padding: 20px 12px;
+
+  border-radius: 15px;
+  background-color: #f3c9d0;
+}
+.cart-item1 p {
+  margin-top: 10px;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 30px;
+}
+.cart-item2 p {
+  margin-top: 10px;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 30px;
+}
+.cart-item3 p {
+  margin-top: 10px;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.cart-item1 span {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 28px;
+}
+.cart-item1 {
+  width: 300px;
+}
+.cart-item2 {
+  width: 300px;
+}
+.cart-item3 {
+  width: 300px;
+}
+.features {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 70px;
+  margin-top: 100px;
+}
+.left-image img {
+  height: 700px;
+}
+.right-text .small {
+  font-size: 14px;
+  line-height: 40px;
+  letter-spacing: 2.0999999046325684px;
+  color: #244886;
+}
+.right-text h2 {
+  width: 450px;
+  font-size: 44px;
+  font-weight: 700;
+  line-height: 55px;
+  letter-spacing: -1.5px;
+  margin-bottom: 30px;
+}
+.smart {
+  margin-bottom: 20px;
+  width: 380px;
+}
+.smart .icon {
+  border-radius: 100px;
+  font-size: 20px;
+  color: red;
+  padding: 10px;
+}
+.descrip span {
+  display: block;
+  font-size: 14px;
+  line-height: 23px;
+  font-weight: 600;
+}
+.descrip small {
+  font-size: 12px;
+  line-height: 26px;
+}

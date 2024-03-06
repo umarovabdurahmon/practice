@@ -1,0 +1,14 @@
+@import "./_header.css";
+@import "./_section1.css";
+@import "./_section2.css";
+@import "./_section3.css";
+@import "./_section4.css";
+@import "./_footer.css";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "DM Sans", sans-serif;
+  list-style: none;
+  text-decoration: none;
+}
